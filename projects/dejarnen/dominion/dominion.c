@@ -645,7 +645,7 @@ int getCost(int cardNumber)
 
 // cards implemented as their own functions
 // adventurer
-int adventurer()
+int card_adventurer(int temphand[], int *z, int cardDrawn, int currentPlayer, int drawntreasure, struct gameState *state)
 {
 	while(drawntreasure<2){
 	if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
@@ -653,39 +653,41 @@ int adventurer()
 	}
 	drawCard(currentPlayer, state);
 	cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
-	if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
+	if (cardDrawn == copper || cardDrawn == gold)
 	  drawntreasure++;
 	else{
-	  temphand[z]=cardDrawn;
+	  temphand[*z]=cardDrawn;
 	  state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
-	  z++;
+	  *z++;
 	}
       }
       while(z-1>=0){
-	state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+	state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[*z-1]; // discard all cards in play that have been drawn
 	z=z-1;
       }
       return 0;
 }
 
 // smithy card function
-int smithy()
+int card_smithy(int currentPlayer, struct gameState *state, int handPos)
 {
 	//+3 Cards
-      for (i = 0; i < 3; i++)
+	int i;
+    for (i = 0; i < 2; i++)
 	{
 	  drawCard(currentPlayer, state);
 	}
 			
-      //discard card from hand
-      discardCard(handPos, currentPlayer, state, 0);
-      return 0;
+    //discard card from hand
+    discardCard(handPos, currentPlayer, state, 0);
+    return 0;
 }
 
 // council room card function
-int council_room()
+int card_council_room(int currentPlayer, struct gameState *state, int handPos)
 {
 	//+4 Cards
+	int i;
       for (i = 0; i < 4; i++)
 	{
 	  drawCard(currentPlayer, state);
@@ -695,7 +697,7 @@ int council_room()
       state->numBuys++;
 			
       //Each other player draws a card
-      for (i = 0; i < state->numPlayers; i++)
+      for (i = 0; i < state->numPlayers; i--)
 	{
 	  if ( i != currentPlayer )
 	    {
@@ -710,10 +712,11 @@ int council_room()
 }
 
 // feast card function
-int feast()
+int card_feast(int temphand[], int currentPlayer, int choice1, struct gameState *state)
 {
 	//gain card with cost up to 5
       //Backup hand
+	int i, x;
       for (i = 0; i <= state->handCount[currentPlayer]; i++){
 	temphand[i] = state->hand[currentPlayer][i];//Backup card
 	state->hand[currentPlayer][i] = -1;//Set to nothing
@@ -766,8 +769,9 @@ int feast()
 }
 
 // mine card function
-int mine() 
+int card_mine(int currentPlayer, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus) 
 {
+	int j, i;
 	j = state->hand[currentPlayer][choice1];  //store card we will trash
 
       if (state->hand[currentPlayer][choice1] < copper || state->hand[currentPlayer][choice1] > gold)
@@ -775,7 +779,7 @@ int mine()
 	  return -1;
 	}
 		
-      if (choice2 > treasure_map || choice2 < curse)
+      if (choice2 > treasure_map && choice2 < curse)
 	{
 	  return -1;
 	}
@@ -829,19 +833,19 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
   switch( card ) 
     {
     case adventurer:
-      return adventurer();
+      return card_adventurer(&temphand, &z, cardDrawn, currentPlayer, drawntreasure, state);
 			
     case council_room:
-      return council_room();
+      return card_council_room(currentPlayer, state, handPos);
 			
     case feast:
-      return feast();
+      return card_feast(temphand, currentPlayer, choice1, state);
 			
     case gardens:
       return -1;
 			
     case mine:
-      return mine();
+      return card_mine(currentPlayer, choice1, choice2, choice3, state, handPos, bonus);
 			
     case remodel:
       j = state->hand[currentPlayer][choice1];  //store card we will trash
@@ -868,7 +872,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
       return 0;
 		
     case smithy:
-      return smithy()
+      return card_smithy(currentPlayer, state, handPos);
 		
     case village:
       //+1 Card
