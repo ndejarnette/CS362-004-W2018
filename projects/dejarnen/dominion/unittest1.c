@@ -11,11 +11,12 @@
 #include <assert.h>
 #include "rngs.h"
 
-void asserttrue(int a, int b) {
-	if(a != b) {
-		printf("TEST FAILED\n");
-		exit(1);
-	}
+void asserttrue(int a, int b, char* msg) {
+    if(a != b) {
+        printf("TEST FAILED: %s", msg);
+    } else {
+        printf("TEST PASSED: %s", msg);
+    }
 }
 
 int main()
@@ -28,14 +29,13 @@ int main()
     // loop through all cards
     for(i = 0; i < 27; i++) {
     	int x = getCost(i);
-    	asserttrue(x, cardCosts[i]);
+    	asserttrue(x, cardCosts[i], "card cost match\n");
     }
 
     // test for invalid card number 
     int invalid = getCost(53);
-    asserttrue(invalid, -1);
+    asserttrue(invalid, -1, "invalid card number\n");
 
-    printf("ALL TESTS PASSED FOR GETCOST\n");
 
 	return 0;
 }
