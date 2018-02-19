@@ -645,8 +645,13 @@ int getCost(int cardNumber)
 
 // cards implemented as their own functions
 // adventurer
-int card_adventurer(int temphand[], int *z, int cardDrawn, int currentPlayer, int drawntreasure, struct gameState *state)
+int card_adventurer(int currentPlayer, struct gameState *state)
 {
+  int temphand[MAX_DECK];
+  int z = 0;
+  int cardDrawn;
+  int drawntreasure = 0;
+
 	while(drawntreasure<2) {
 	if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
 	  shuffle(currentPlayer, state);
@@ -660,15 +665,15 @@ int card_adventurer(int temphand[], int *z, int cardDrawn, int currentPlayer, in
     drawntreasure++;
   }
 	else {
-	  temphand[*z]=cardDrawn;
+	  temphand[z]=cardDrawn;
 	  state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
-	  *z++;
+	  z++;
 	 }
   }
 
-  while(*z-1>=0) {
-	    state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[*z-1]; // discard all cards in play that have been drawn
-	    *z=*z-1;
+  while(z-1>=0) {
+	    state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+	    z=z-1;
   }
 
   return 0;
@@ -839,7 +844,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
   switch( card ) 
     {
     case adventurer:
-      return card_adventurer(&temphand, &z, cardDrawn, currentPlayer, drawntreasure, state);
+      return card_adventurer(currentPlayer, state);
 			
     case council_room:
       return card_council_room(currentPlayer, state, handPos);

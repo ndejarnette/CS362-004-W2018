@@ -1,0 +1,119 @@
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: card cost match
+TEST PASSED: invalid card number
+getCost stats: 
+Lines executed:100.00% of 30
+No branches
+No calls
+
+TEST PASSED: empty province card deck.
+TEST PASSED: 3 empty supply piles.
+TEST PASSED: full supply piles.
+isGameOver stats: 
+Lines executed:100.00% of 10
+No branches
+No calls
+
+TEST PASSED: a is greater test
+TEST PASSED: a is less test
+TEST PASSED: a and b are equal
+TEST PASSED: negative value a is greater test
+TEST PASSED: negative value a is less test
+TEST PASSED: negative value a and b are equal
+compare stats: 
+Lines executed:100.00% of 6
+No branches
+No calls
+
+Testing player 0 hand count...
+Test 0: TEST PASSED: player 0 hand count
+Test 1: TEST PASSED: player 0 hand count
+Test 2: TEST PASSED: player 0 hand count
+Test 3: TEST PASSED: player 0 hand count
+Test 4: TEST PASSED: player 0 hand count
+Test 5: TEST PASSED: player 0 hand count
+Testing player 1 hand count...
+Test 0: TEST PASSED: player 1 hand count
+Test 1: TEST PASSED: player 1 hand count
+Test 2: TEST PASSED: player 1 hand count
+Test 3: TEST PASSED: player 1 hand count
+Test 4: TEST PASSED: player 1 hand count
+Test 5: TEST PASSED: player 1 hand count
+numHandCards stats: 
+Lines executed:100.00% of 2
+No branches
+No calls
+
+----------------- Testing Card: smithy ----------------
+TEST PASSED: smithy card added to player 1 hand
+TEST PASSED: smithy return value
+TEST FAILED: 3 cards added to player hand
+TEST PASSED: smithy card removed from player 1
+card_smithy stats: 
+Lines executed:100.00% of 5
+No branches
+No calls
+
+----------------- Testing Card: village ----------------
+TEST PASSED: village card added to player 1 hand
+TEST PASSED: village return value
+TEST PASSED: player 1 handcount
+TEST PASSED: 2 actions added for player 1
+TEST PASSED: village card removed from player 1 hand
+village stats: 
+----------------- Testing Card: council_room ----------------
+---- testing with 2 players ----
+TEST PASSED: council_room card added to player 1 hand
+TEST PASSED: return value for council_room through card effect
+TEST PASSED: 4 cards added to player 1 hand
+TEST FAILED: number of player 1 buys increased by 1
+TEST PASSED: player 2 draws a card
+
+---- testing with 3 players ----
+TEST PASSED: council_room card added to player 2 hand
+TEST PASSED: return value for council_room through card effect
+TEST PASSED: 4 cards added to player 2 hand
+TEST FAILED: number of player 2 buys increased by 1
+TEST PASSED: player 1 draws a card
+TEST PASSED: player 3 draws a card
+card_council_room stats: 
+Lines executed:100.00% of 9
+No branches
+No calls
+
+----------------- Testing Card: adventurer ----------------
+TEST PASSED: adventurer card added to player 1 hand
+-----Testing gold card draw-----
+TEST PASSED: treasure cards drawn count increased successfully
+-----Testing copper card draw-----
+TEST PASSED: treasure cards drawn count increased successfully
+adventurer stats: 
+Lines executed:0.00% of 17
+No branches
+No calls
+
