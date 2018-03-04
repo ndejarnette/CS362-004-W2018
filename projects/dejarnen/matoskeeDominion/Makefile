@@ -74,26 +74,26 @@ runtests: unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 
 	gcov -abcfu dominion.c | sed -n '/numHandCards/{n;p; n;p; n;p; n;p;}' >> unittestresult.out
 	./cardtest1 &>> unittestresult.out
 	echo "card_smithy stats: " >> unittestresult.out
-	gcov -abcfu dominion.c | sed -n '/card_smithy/{n;p; n;p; n;p; n;p;}' >> unittestresult.out
+	gcov -abcfu dominion.c | sed -n '/cardSmithy/{n;p; n;p; n;p; n;p;}' >> unittestresult.out
 	./cardtest2 &>> unittestresult.out
 	echo "village stats: " >> unittestresult.out
-	gcov -abcfu dominion.c | sed -n '/village/{n;p; n;p; n;p; n;p;}' >> unittestresult.out
+	gcov -abcfu dominion.c | sed -n '/cardVillage/{n;p; n;p; n;p; n;p;}' >> unittestresult.out
 	./cardtest3 &>> unittestresult.out
 	echo "card_council_room stats: " >> unittestresult.out
-	gcov -abcfu dominion.c | sed -n '/card_council_room/{n;p; n;p; n;p; n;p;}' >> unittestresult.out
+	gcov -abcfu dominion.c | sed -n '/cardCouncil_room/{n;p; n;p; n;p; n;p;}' >> unittestresult.out
 	./cardtest4 &>> unittestresult.out
 	echo "adventurer stats: " >> unittestresult.out
-	gcov -abcfu dominion.c | sed -n '/card_adventurer/{n;p; n;p; n;p; n;p;}' >> unittestresult.out
+	gcov -abcfu dominion.c | sed -n '/cardAdventurer/{n;p; n;p; n;p; n;p;}' >> unittestresult.out
 	#cat dominion.c.gcov >> unittestresult.out
 	./randomtestadventurer &>> randomtestadventurer.out
-	echo "card_adventurer stats" >> randomtestadventurer.out
-	gcov -abcfu dominion.c | sed -n '/card_adventurer/{n;p; n;p; n;p; n;p}' >> randomtestadventurer.out
+	echo "random card_adventurer stats" >> randomtestadventurer.out
+	gcov -abcfu dominion.c | sed -n '/cardAdventurer/{n;p; n;p; n;p; n;p}' >> randomtestadventurer.out
 	./randomtestcard1 &>> randomtestcard1.out
-	echo "card_smithy stats" >> randomtestcard1.out
-	gcov -abcfu dominion.c | sed -n '/card_smithy/{n;p; n;p; n;p; n;p}' >> randomtestcard1.out
+	echo "random card_smithy stats" >> randomtestcard1.out
+	gcov -abcfu dominion.c | sed -n '/cardSmithy/{n;p; n;p; n;p; n;p}' >> randomtestcard1.out
 	./randomtestcard2 &>> randomtestcard2.out
-	echo "village card stats" >> randomtestcard2.out
-	gcov -abcfu dominion.c | sed -n '/cardEffect/{n;p; n;p; n;p; n;p}' >> randomtestcard2.out
+	echo "random village card stats" >> randomtestcard2.out
+	gcov -abcfu dominion.c | sed -n '/cardVillage/{n;p; n;p; n;p; n;p}' >> randomtestcard2.out
 
 
 player: player.c interface.o
