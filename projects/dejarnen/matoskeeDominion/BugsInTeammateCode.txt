@@ -1,0 +1,43 @@
+Nick DeJarnette
+Bugs in teammate code
+3.4.2018
+-------Bug report 1--------
+#### Card tested
+Smithy Card
+#### Issue description
+Player hand count is incorrect after playing smithy card. Player should have 2 extra cards in hand after drawing 3 new cards and discarding the played smithy card.
+#### Steps to reproduce the issue
+Play smithy card from any player hand.
+#### What’s the expected result
+Player hand count should have a net gain of 2 cards.
+#### What’s the actual result
+Player hand count is the same after playing smithy card.
+-------Bug report 2--------
+#### Card tested
+Adventurer Card
+#### Issue description
+No treasure cards are removed from player deck and added to player hand upon playing the adventurer card.
+#### Steps to reproduce the issue
+Play adventurer card with treasure cards present in current player deck
+#### What’s the expected result
+2 treasure cards should be removed from the current player deck and added to the player hand, increasing the player hand count by 2. There should also be 2 less treasure cards in the player deck.
+#### What’s the actual result
+No treasure cards are removed from the player deck, and the player hand count is not increased by 2.
+
+
+-------Bug report 3--------
+#### Card tested
+Council room Card
+#### Issue description
+Not enough cards are added to player hand upon playing council room card
+#### Steps to reproduce the issue
+Add council room card to player hand, and play that card from the player hand.
+#### What’s the expected result
+Hand count of player that played council room should have a net gain of 3 cards.
+#### What’s the actual result
+Hand count of player that plays council room only has a net gain of 1 card.
+
+
+
+
+
