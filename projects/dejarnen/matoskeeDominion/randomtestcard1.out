@@ -1,0 +1,5007 @@
+----------------- Testing Card: smithy ----------------
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 400
+Hand count after: 400
+Expected hand count: 402
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 400
+Hand count after: 400
+Expected hand count: 402
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 376
+Hand count after: 376
+Expected hand count: 378
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 138
+Hand count after: 138
+Expected hand count: 140
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 14
+Hand count after: 14
+Expected hand count: 16
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 352
+Hand count after: 352
+Expected hand count: 354
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 117
+Hand count after: 117
+Expected hand count: 119
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 5
+Hand count after: 5
+Expected hand count: 7
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 263
+Hand count after: 263
+Expected hand count: 265
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 359
+Hand count after: 359
+Expected hand count: 361
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 188
+Hand count after: 188
+Expected hand count: 190
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 319
+Hand count after: 319
+Expected hand count: 321
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 464
+Hand count after: 464
+Expected hand count: 466
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 272
+Hand count after: 272
+Expected hand count: 274
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 21
+Hand count after: 21
+Expected hand count: 23
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 400
+Hand count after: 400
+Expected hand count: 402
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 197
+Hand count after: 197
+Expected hand count: 199
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 478
+Hand count after: 478
+Expected hand count: 480
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 454
+Hand count after: 454
+Expected hand count: 456
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 446
+Hand count after: 446
+Expected hand count: 448
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 104
+Hand count after: 104
+Expected hand count: 106
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 387
+Hand count after: 387
+Expected hand count: 389
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 131
+Hand count after: 131
+Expected hand count: 133
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 188
+Hand count after: 188
+Expected hand count: 190
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 51
+Hand count after: 51
+Expected hand count: 53
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 87
+Hand count after: 87
+Expected hand count: 89
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 479
+Hand count after: 479
+Expected hand count: 481
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 71
+Hand count after: 71
+Expected hand count: 73
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 175
+Hand count after: 175
+Expected hand count: 177
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 467
+Hand count after: 467
+Expected hand count: 469
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 288
+Hand count after: 288
+Expected hand count: 290
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 330
+Hand count after: 330
+Expected hand count: 332
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 458
+Hand count after: 458
+Expected hand count: 460
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 382
+Hand count after: 382
+Expected hand count: 384
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 340
+Hand count after: 340
+Expected hand count: 342
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 28
+Hand count after: 28
+Expected hand count: 30
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 51
+Hand count after: 51
+Expected hand count: 53
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 154
+Hand count after: 154
+Expected hand count: 156
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 148
+Hand count after: 148
+Expected hand count: 150
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 188
+Hand count after: 188
+Expected hand count: 190
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 86
+Hand count after: 86
+Expected hand count: 88
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 155
+Hand count after: 155
+Expected hand count: 157
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 161
+Hand count after: 161
+Expected hand count: 163
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 22
+Hand count after: 22
+Expected hand count: 24
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 463
+Hand count after: 463
+Expected hand count: 465
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 109
+Hand count after: 109
+Expected hand count: 111
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 419
+Hand count after: 419
+Expected hand count: 421
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 243
+Hand count after: 243
+Expected hand count: 245
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 407
+Hand count after: 407
+Expected hand count: 409
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 389
+Hand count after: 389
+Expected hand count: 391
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 352
+Hand count after: 352
+Expected hand count: 354
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 288
+Hand count after: 288
+Expected hand count: 290
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 145
+Hand count after: 145
+Expected hand count: 147
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 339
+Hand count after: 339
+Expected hand count: 341
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 140
+Hand count after: 140
+Expected hand count: 142
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 382
+Hand count after: 382
+Expected hand count: 384
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 19
+Hand count after: 19
+Expected hand count: 21
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 13
+Hand count after: 13
+Expected hand count: 15
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 38
+Hand count after: 38
+Expected hand count: 40
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 227
+Hand count after: 227
+Expected hand count: 229
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 220
+Hand count after: 220
+Expected hand count: 222
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 417
+Hand count after: 417
+Expected hand count: 419
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 235
+Hand count after: 235
+Expected hand count: 237
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 103
+Hand count after: 103
+Expected hand count: 105
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 213
+Hand count after: 213
+Expected hand count: 215
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 134
+Hand count after: 134
+Expected hand count: 136
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 14
+Hand count after: 14
+Expected hand count: 16
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 45
+Hand count after: 45
+Expected hand count: 47
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 358
+Hand count after: 358
+Expected hand count: 360
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 247
+Hand count after: 247
+Expected hand count: 249
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 298
+Hand count after: 298
+Expected hand count: 300
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 7
+Hand count after: 7
+Expected hand count: 9
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 474
+Hand count after: 474
+Expected hand count: 476
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 312
+Hand count after: 312
+Expected hand count: 314
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 293
+Hand count after: 293
+Expected hand count: 295
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 139
+Hand count after: 139
+Expected hand count: 141
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 349
+Hand count after: 349
+Expected hand count: 351
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 280
+Hand count after: 280
+Expected hand count: 282
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 288
+Hand count after: 288
+Expected hand count: 290
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 106
+Hand count after: 106
+Expected hand count: 108
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 292
+Hand count after: 292
+Expected hand count: 294
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 490
+Hand count after: 490
+Expected hand count: 492
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 305
+Hand count after: 305
+Expected hand count: 307
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 415
+Hand count after: 415
+Expected hand count: 417
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 221
+Hand count after: 221
+Expected hand count: 223
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 414
+Hand count after: 414
+Expected hand count: 416
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 39
+Hand count after: 39
+Expected hand count: 41
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 202
+Hand count after: 202
+Expected hand count: 204
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 226
+Hand count after: 226
+Expected hand count: 228
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 474
+Hand count after: 474
+Expected hand count: 476
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 338
+Hand count after: 338
+Expected hand count: 340
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 105
+Hand count after: 105
+Expected hand count: 107
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 273
+Hand count after: 273
+Expected hand count: 275
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 169
+Hand count after: 169
+Expected hand count: 171
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 234
+Hand count after: 234
+Expected hand count: 236
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 154
+Hand count after: 154
+Expected hand count: 156
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 102
+Hand count after: 102
+Expected hand count: 104
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 398
+Hand count after: 398
+Expected hand count: 400
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 305
+Hand count after: 305
+Expected hand count: 307
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 82
+Hand count after: 82
+Expected hand count: 84
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 243
+Hand count after: 243
+Expected hand count: 245
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 77
+Hand count after: 77
+Expected hand count: 79
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 500
+Hand count after: 500
+Expected hand count: 502
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 463
+Hand count after: 463
+Expected hand count: 465
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 356
+Hand count after: 356
+Expected hand count: 358
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 169
+Hand count after: 169
+Expected hand count: 171
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 282
+Hand count after: 282
+Expected hand count: 284
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 327
+Hand count after: 327
+Expected hand count: 329
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 316
+Hand count after: 316
+Expected hand count: 318
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 459
+Hand count after: 459
+Expected hand count: 461
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 56
+Hand count after: 56
+Expected hand count: 58
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 194
+Hand count after: 194
+Expected hand count: 196
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 178
+Hand count after: 178
+Expected hand count: 180
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 150
+Hand count after: 150
+Expected hand count: 152
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 40
+Hand count after: 40
+Expected hand count: 42
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 260
+Hand count after: 260
+Expected hand count: 262
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 451
+Hand count after: 451
+Expected hand count: 453
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 320
+Hand count after: 320
+Expected hand count: 322
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 473
+Hand count after: 473
+Expected hand count: 475
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 35
+Hand count after: 35
+Expected hand count: 37
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 478
+Hand count after: 478
+Expected hand count: 480
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 253
+Hand count after: 253
+Expected hand count: 255
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 370
+Hand count after: 370
+Expected hand count: 372
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 257
+Hand count after: 257
+Expected hand count: 259
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 500
+Hand count after: 500
+Expected hand count: 502
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 277
+Hand count after: 277
+Expected hand count: 279
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 126
+Hand count after: 126
+Expected hand count: 128
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 97
+Hand count after: 97
+Expected hand count: 99
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 75
+Hand count after: 75
+Expected hand count: 77
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 1
+Hand count after: 1
+Expected hand count: 3
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 255
+Hand count after: 255
+Expected hand count: 257
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 183
+Hand count after: 183
+Expected hand count: 185
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 207
+Hand count after: 207
+Expected hand count: 209
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 201
+Hand count after: 201
+Expected hand count: 203
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 285
+Hand count after: 285
+Expected hand count: 287
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 418
+Hand count after: 418
+Expected hand count: 420
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 414
+Hand count after: 414
+Expected hand count: 416
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 404
+Hand count after: 404
+Expected hand count: 406
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 190
+Hand count after: 190
+Expected hand count: 192
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 306
+Hand count after: 306
+Expected hand count: 308
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 396
+Hand count after: 396
+Expected hand count: 398
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 418
+Hand count after: 418
+Expected hand count: 420
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 102
+Hand count after: 102
+Expected hand count: 104
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 484
+Hand count after: 484
+Expected hand count: 486
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 315
+Hand count after: 315
+Expected hand count: 317
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 89
+Hand count after: 89
+Expected hand count: 91
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 399
+Hand count after: 399
+Expected hand count: 401
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 421
+Hand count after: 421
+Expected hand count: 423
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 438
+Hand count after: 438
+Expected hand count: 440
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 33
+Hand count after: 33
+Expected hand count: 35
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 444
+Hand count after: 444
+Expected hand count: 446
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 352
+Hand count after: 352
+Expected hand count: 354
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 395
+Hand count after: 395
+Expected hand count: 397
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 270
+Hand count after: 270
+Expected hand count: 272
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 334
+Hand count after: 334
+Expected hand count: 336
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 5
+Hand count after: 5
+Expected hand count: 7
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 20
+Hand count after: 20
+Expected hand count: 22
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 474
+Hand count after: 474
+Expected hand count: 476
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 154
+Hand count after: 154
+Expected hand count: 156
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 419
+Hand count after: 419
+Expected hand count: 421
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 1
+Hand count after: 1
+Expected hand count: 3
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 164
+Hand count after: 164
+Expected hand count: 166
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 91
+Hand count after: 91
+Expected hand count: 93
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 131
+Hand count after: 131
+Expected hand count: 133
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 203
+Hand count after: 203
+Expected hand count: 205
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 320
+Hand count after: 320
+Expected hand count: 322
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 447
+Hand count after: 447
+Expected hand count: 449
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 173
+Hand count after: 173
+Expected hand count: 175
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 180
+Hand count after: 180
+Expected hand count: 182
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 9
+Hand count after: 9
+Expected hand count: 11
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 237
+Hand count after: 237
+Expected hand count: 239
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 27
+Hand count after: 27
+Expected hand count: 29
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 389
+Hand count after: 389
+Expected hand count: 391
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 346
+Hand count after: 346
+Expected hand count: 348
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 36
+Hand count after: 36
+Expected hand count: 38
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 229
+Hand count after: 229
+Expected hand count: 231
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 306
+Hand count after: 306
+Expected hand count: 308
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 125
+Hand count after: 125
+Expected hand count: 127
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 130
+Hand count after: 130
+Expected hand count: 132
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 67
+Hand count after: 67
+Expected hand count: 69
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 384
+Hand count after: 384
+Expected hand count: 386
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 273
+Hand count after: 273
+Expected hand count: 275
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 85
+Hand count after: 85
+Expected hand count: 87
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 414
+Hand count after: 414
+Expected hand count: 416
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 247
+Hand count after: 247
+Expected hand count: 249
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 412
+Hand count after: 412
+Expected hand count: 414
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 73
+Hand count after: 73
+Expected hand count: 75
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 295
+Hand count after: 295
+Expected hand count: 297
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 44
+Hand count after: 44
+Expected hand count: 46
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 384
+Hand count after: 384
+Expected hand count: 386
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 148
+Hand count after: 148
+Expected hand count: 150
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 211
+Hand count after: 211
+Expected hand count: 213
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 443
+Hand count after: 443
+Expected hand count: 445
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 438
+Hand count after: 438
+Expected hand count: 440
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 52
+Hand count after: 52
+Expected hand count: 54
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 476
+Hand count after: 476
+Expected hand count: 478
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 360
+Hand count after: 360
+Expected hand count: 362
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 53
+Hand count after: 53
+Expected hand count: 55
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 467
+Hand count after: 467
+Expected hand count: 469
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 492
+Hand count after: 492
+Expected hand count: 494
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 462
+Hand count after: 462
+Expected hand count: 464
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 142
+Hand count after: 142
+Expected hand count: 144
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 110
+Hand count after: 110
+Expected hand count: 112
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 323
+Hand count after: 323
+Expected hand count: 325
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 227
+Hand count after: 227
+Expected hand count: 229
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 418
+Hand count after: 418
+Expected hand count: 420
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 243
+Hand count after: 243
+Expected hand count: 245
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 429
+Hand count after: 429
+Expected hand count: 431
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 498
+Hand count after: 498
+Expected hand count: 500
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 92
+Hand count after: 92
+Expected hand count: 94
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 381
+Hand count after: 381
+Expected hand count: 383
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 320
+Hand count after: 320
+Expected hand count: 322
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 292
+Hand count after: 292
+Expected hand count: 294
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 228
+Hand count after: 228
+Expected hand count: 230
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 156
+Hand count after: 156
+Expected hand count: 158
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 490
+Hand count after: 490
+Expected hand count: 492
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 31
+Hand count after: 31
+Expected hand count: 33
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 193
+Hand count after: 193
+Expected hand count: 195
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 328
+Hand count after: 328
+Expected hand count: 330
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 39
+Hand count after: 39
+Expected hand count: 41
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 109
+Hand count after: 109
+Expected hand count: 111
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 450
+Hand count after: 450
+Expected hand count: 452
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 115
+Hand count after: 115
+Expected hand count: 117
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 480
+Hand count after: 480
+Expected hand count: 482
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 163
+Hand count after: 163
+Expected hand count: 165
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 33
+Hand count after: 33
+Expected hand count: 35
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 298
+Hand count after: 298
+Expected hand count: 300
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 208
+Hand count after: 208
+Expected hand count: 210
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 194
+Hand count after: 194
+Expected hand count: 196
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 37
+Hand count after: 37
+Expected hand count: 39
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 67
+Hand count after: 67
+Expected hand count: 69
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 200
+Hand count after: 200
+Expected hand count: 202
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 27
+Hand count after: 27
+Expected hand count: 29
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 307
+Hand count after: 307
+Expected hand count: 309
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 496
+Hand count after: 496
+Expected hand count: 498
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 414
+Hand count after: 414
+Expected hand count: 416
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 270
+Hand count after: 270
+Expected hand count: 272
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 349
+Hand count after: 349
+Expected hand count: 351
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 100
+Hand count after: 100
+Expected hand count: 102
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 360
+Hand count after: 360
+Expected hand count: 362
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 197
+Hand count after: 197
+Expected hand count: 199
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 302
+Hand count after: 302
+Expected hand count: 304
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 201
+Hand count after: 201
+Expected hand count: 203
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 120
+Hand count after: 120
+Expected hand count: 122
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 312
+Hand count after: 312
+Expected hand count: 314
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 294
+Hand count after: 294
+Expected hand count: 296
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 400
+Hand count after: 400
+Expected hand count: 402
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 104
+Hand count after: 104
+Expected hand count: 106
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 174
+Hand count after: 174
+Expected hand count: 176
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 98
+Hand count after: 98
+Expected hand count: 100
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 213
+Hand count after: 213
+Expected hand count: 215
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 229
+Hand count after: 229
+Expected hand count: 231
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 73
+Hand count after: 73
+Expected hand count: 75
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 436
+Hand count after: 436
+Expected hand count: 438
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 76
+Hand count after: 76
+Expected hand count: 78
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 450
+Hand count after: 450
+Expected hand count: 452
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 353
+Hand count after: 353
+Expected hand count: 355
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 206
+Hand count after: 206
+Expected hand count: 208
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 180
+Hand count after: 180
+Expected hand count: 182
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 345
+Hand count after: 345
+Expected hand count: 347
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 106
+Hand count after: 106
+Expected hand count: 108
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 495
+Hand count after: 495
+Expected hand count: 497
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 91
+Hand count after: 91
+Expected hand count: 93
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 150
+Hand count after: 150
+Expected hand count: 152
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 189
+Hand count after: 189
+Expected hand count: 191
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 44
+Hand count after: 44
+Expected hand count: 46
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 296
+Hand count after: 296
+Expected hand count: 298
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 290
+Hand count after: 290
+Expected hand count: 292
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 144
+Hand count after: 144
+Expected hand count: 146
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 170
+Hand count after: 170
+Expected hand count: 172
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 400
+Hand count after: 400
+Expected hand count: 402
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 387
+Hand count after: 387
+Expected hand count: 389
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 335
+Hand count after: 335
+Expected hand count: 337
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 309
+Hand count after: 309
+Expected hand count: 311
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 31
+Hand count after: 31
+Expected hand count: 33
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 364
+Hand count after: 364
+Expected hand count: 366
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 267
+Hand count after: 267
+Expected hand count: 269
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 297
+Hand count after: 297
+Expected hand count: 299
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 94
+Hand count after: 94
+Expected hand count: 96
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 308
+Hand count after: 308
+Expected hand count: 310
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 402
+Hand count after: 402
+Expected hand count: 404
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 280
+Hand count after: 280
+Expected hand count: 282
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 12
+Hand count after: 12
+Expected hand count: 14
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 336
+Hand count after: 336
+Expected hand count: 338
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 10
+Hand count after: 10
+Expected hand count: 12
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 299
+Hand count after: 299
+Expected hand count: 301
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 404
+Hand count after: 404
+Expected hand count: 406
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 302
+Hand count after: 302
+Expected hand count: 304
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 19
+Hand count after: 19
+Expected hand count: 21
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 9
+Hand count after: 9
+Expected hand count: 11
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 62
+Hand count after: 62
+Expected hand count: 64
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 434
+Hand count after: 434
+Expected hand count: 436
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 468
+Hand count after: 468
+Expected hand count: 470
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 165
+Hand count after: 165
+Expected hand count: 167
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 371
+Hand count after: 371
+Expected hand count: 373
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 440
+Hand count after: 440
+Expected hand count: 442
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 340
+Hand count after: 340
+Expected hand count: 342
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 134
+Hand count after: 134
+Expected hand count: 136
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 197
+Hand count after: 197
+Expected hand count: 199
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 65
+Hand count after: 65
+Expected hand count: 67
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 392
+Hand count after: 392
+Expected hand count: 394
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 266
+Hand count after: 266
+Expected hand count: 268
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 265
+Hand count after: 265
+Expected hand count: 267
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 328
+Hand count after: 328
+Expected hand count: 330
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 44
+Hand count after: 44
+Expected hand count: 46
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 373
+Hand count after: 373
+Expected hand count: 375
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 441
+Hand count after: 441
+Expected hand count: 443
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 159
+Hand count after: 159
+Expected hand count: 161
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 179
+Hand count after: 179
+Expected hand count: 181
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 368
+Hand count after: 368
+Expected hand count: 370
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 3
+Hand count after: 3
+Expected hand count: 5
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 469
+Hand count after: 469
+Expected hand count: 471
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 363
+Hand count after: 363
+Expected hand count: 365
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 446
+Hand count after: 446
+Expected hand count: 448
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 277
+Hand count after: 277
+Expected hand count: 279
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 110
+Hand count after: 110
+Expected hand count: 112
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 490
+Hand count after: 490
+Expected hand count: 492
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 380
+Hand count after: 380
+Expected hand count: 382
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 282
+Hand count after: 282
+Expected hand count: 284
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 381
+Hand count after: 381
+Expected hand count: 383
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 2
+Hand count after: 2
+Expected hand count: 4
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 203
+Hand count after: 203
+Expected hand count: 205
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 100
+Hand count after: 100
+Expected hand count: 102
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 119
+Hand count after: 119
+Expected hand count: 121
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 163
+Hand count after: 163
+Expected hand count: 165
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 53
+Hand count after: 53
+Expected hand count: 55
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 403
+Hand count after: 403
+Expected hand count: 405
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 196
+Hand count after: 196
+Expected hand count: 198
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 435
+Hand count after: 435
+Expected hand count: 437
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 353
+Hand count after: 353
+Expected hand count: 355
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 320
+Hand count after: 320
+Expected hand count: 322
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 378
+Hand count after: 378
+Expected hand count: 380
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 135
+Hand count after: 135
+Expected hand count: 137
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 154
+Hand count after: 154
+Expected hand count: 156
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 483
+Hand count after: 483
+Expected hand count: 485
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 458
+Hand count after: 458
+Expected hand count: 460
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 417
+Hand count after: 417
+Expected hand count: 419
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 282
+Hand count after: 282
+Expected hand count: 284
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 350
+Hand count after: 350
+Expected hand count: 352
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 369
+Hand count after: 369
+Expected hand count: 371
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 77
+Hand count after: 77
+Expected hand count: 79
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 130
+Hand count after: 130
+Expected hand count: 132
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 245
+Hand count after: 245
+Expected hand count: 247
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 489
+Hand count after: 489
+Expected hand count: 491
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 84
+Hand count after: 84
+Expected hand count: 86
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 421
+Hand count after: 421
+Expected hand count: 423
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 285
+Hand count after: 285
+Expected hand count: 287
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 101
+Hand count after: 101
+Expected hand count: 103
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 360
+Hand count after: 360
+Expected hand count: 362
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 189
+Hand count after: 189
+Expected hand count: 191
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 206
+Hand count after: 206
+Expected hand count: 208
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 408
+Hand count after: 408
+Expected hand count: 410
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 488
+Hand count after: 488
+Expected hand count: 490
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 272
+Hand count after: 272
+Expected hand count: 274
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 450
+Hand count after: 450
+Expected hand count: 452
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 396
+Hand count after: 396
+Expected hand count: 398
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 275
+Hand count after: 275
+Expected hand count: 277
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 496
+Hand count after: 496
+Expected hand count: 498
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 193
+Hand count after: 193
+Expected hand count: 195
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 350
+Hand count after: 350
+Expected hand count: 352
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 20
+Hand count after: 20
+Expected hand count: 22
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 103
+Hand count after: 103
+Expected hand count: 105
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 30
+Hand count after: 30
+Expected hand count: 32
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 317
+Hand count after: 317
+Expected hand count: 319
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 126
+Hand count after: 126
+Expected hand count: 128
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 407
+Hand count after: 407
+Expected hand count: 409
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 252
+Hand count after: 252
+Expected hand count: 254
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 200
+Hand count after: 200
+Expected hand count: 202
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 167
+Hand count after: 167
+Expected hand count: 169
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 88
+Hand count after: 88
+Expected hand count: 90
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 326
+Hand count after: 326
+Expected hand count: 328
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 125
+Hand count after: 125
+Expected hand count: 127
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 448
+Hand count after: 448
+Expected hand count: 450
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 76
+Hand count after: 76
+Expected hand count: 78
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 481
+Hand count after: 481
+Expected hand count: 483
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 495
+Hand count after: 495
+Expected hand count: 497
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 289
+Hand count after: 289
+Expected hand count: 291
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 155
+Hand count after: 155
+Expected hand count: 157
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 458
+Hand count after: 458
+Expected hand count: 460
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 274
+Hand count after: 274
+Expected hand count: 276
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 87
+Hand count after: 87
+Expected hand count: 89
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 135
+Hand count after: 135
+Expected hand count: 137
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 216
+Hand count after: 216
+Expected hand count: 218
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 250
+Hand count after: 250
+Expected hand count: 252
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 8
+Hand count after: 8
+Expected hand count: 10
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 352
+Hand count after: 352
+Expected hand count: 354
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 372
+Hand count after: 372
+Expected hand count: 374
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 272
+Hand count after: 272
+Expected hand count: 274
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 164
+Hand count after: 164
+Expected hand count: 166
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 127
+Hand count after: 127
+Expected hand count: 129
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 163
+Hand count after: 163
+Expected hand count: 165
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 398
+Hand count after: 398
+Expected hand count: 400
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 191
+Hand count after: 191
+Expected hand count: 193
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 29
+Hand count after: 29
+Expected hand count: 31
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 214
+Hand count after: 214
+Expected hand count: 216
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 99
+Hand count after: 99
+Expected hand count: 101
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 380
+Hand count after: 380
+Expected hand count: 382
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 225
+Hand count after: 225
+Expected hand count: 227
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 168
+Hand count after: 168
+Expected hand count: 170
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 257
+Hand count after: 257
+Expected hand count: 259
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 256
+Hand count after: 256
+Expected hand count: 258
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 480
+Hand count after: 480
+Expected hand count: 482
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 2
+Hand count after: 2
+Expected hand count: 4
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 262
+Hand count after: 262
+Expected hand count: 264
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 67
+Hand count after: 67
+Expected hand count: 69
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 377
+Hand count after: 377
+Expected hand count: 379
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 97
+Hand count after: 97
+Expected hand count: 99
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 123
+Hand count after: 123
+Expected hand count: 125
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 197
+Hand count after: 197
+Expected hand count: 199
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 271
+Hand count after: 271
+Expected hand count: 273
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 36
+Hand count after: 36
+Expected hand count: 38
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 9
+Hand count after: 9
+Expected hand count: 11
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 225
+Hand count after: 225
+Expected hand count: 227
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 67
+Hand count after: 67
+Expected hand count: 69
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 248
+Hand count after: 248
+Expected hand count: 250
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 406
+Hand count after: 406
+Expected hand count: 408
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 193
+Hand count after: 193
+Expected hand count: 195
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 387
+Hand count after: 387
+Expected hand count: 389
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 21
+Hand count after: 21
+Expected hand count: 23
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 117
+Hand count after: 117
+Expected hand count: 119
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 384
+Hand count after: 384
+Expected hand count: 386
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 64
+Hand count after: 64
+Expected hand count: 66
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 249
+Hand count after: 249
+Expected hand count: 251
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 277
+Hand count after: 277
+Expected hand count: 279
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 363
+Hand count after: 363
+Expected hand count: 365
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 480
+Hand count after: 480
+Expected hand count: 482
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 399
+Hand count after: 399
+Expected hand count: 401
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 65
+Hand count after: 65
+Expected hand count: 67
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 242
+Hand count after: 242
+Expected hand count: 244
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 211
+Hand count after: 211
+Expected hand count: 213
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 420
+Hand count after: 420
+Expected hand count: 422
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 490
+Hand count after: 490
+Expected hand count: 492
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 270
+Hand count after: 270
+Expected hand count: 272
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 203
+Hand count after: 203
+Expected hand count: 205
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 492
+Hand count after: 492
+Expected hand count: 494
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 430
+Hand count after: 430
+Expected hand count: 432
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 437
+Hand count after: 437
+Expected hand count: 439
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 438
+Hand count after: 438
+Expected hand count: 440
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 359
+Hand count after: 359
+Expected hand count: 361
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 96
+Hand count after: 96
+Expected hand count: 98
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 312
+Hand count after: 312
+Expected hand count: 314
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 147
+Hand count after: 147
+Expected hand count: 149
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 175
+Hand count after: 175
+Expected hand count: 177
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 1
+Hand count after: 1
+Expected hand count: 3
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 364
+Hand count after: 364
+Expected hand count: 366
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 91
+Hand count after: 91
+Expected hand count: 93
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 108
+Hand count after: 108
+Expected hand count: 110
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 205
+Hand count after: 205
+Expected hand count: 207
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 488
+Hand count after: 488
+Expected hand count: 490
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 178
+Hand count after: 178
+Expected hand count: 180
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 148
+Hand count after: 148
+Expected hand count: 150
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 496
+Hand count after: 496
+Expected hand count: 498
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 178
+Hand count after: 178
+Expected hand count: 180
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 81
+Hand count after: 81
+Expected hand count: 83
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 143
+Hand count after: 143
+Expected hand count: 145
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 474
+Hand count after: 474
+Expected hand count: 476
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 258
+Hand count after: 258
+Expected hand count: 260
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 206
+Hand count after: 206
+Expected hand count: 208
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 413
+Hand count after: 413
+Expected hand count: 415
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 242
+Hand count after: 242
+Expected hand count: 244
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 360
+Hand count after: 360
+Expected hand count: 362
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 452
+Hand count after: 452
+Expected hand count: 454
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 349
+Hand count after: 349
+Expected hand count: 351
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 462
+Hand count after: 462
+Expected hand count: 464
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 321
+Hand count after: 321
+Expected hand count: 323
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 185
+Hand count after: 185
+Expected hand count: 187
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 424
+Hand count after: 424
+Expected hand count: 426
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 194
+Hand count after: 194
+Expected hand count: 196
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 359
+Hand count after: 359
+Expected hand count: 361
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 280
+Hand count after: 280
+Expected hand count: 282
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 422
+Hand count after: 422
+Expected hand count: 424
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 457
+Hand count after: 457
+Expected hand count: 459
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 328
+Hand count after: 328
+Expected hand count: 330
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 234
+Hand count after: 234
+Expected hand count: 236
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 131
+Hand count after: 131
+Expected hand count: 133
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 420
+Hand count after: 420
+Expected hand count: 422
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 407
+Hand count after: 407
+Expected hand count: 409
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 434
+Hand count after: 434
+Expected hand count: 436
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 81
+Hand count after: 81
+Expected hand count: 83
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 87
+Hand count after: 87
+Expected hand count: 89
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 442
+Hand count after: 442
+Expected hand count: 444
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 161
+Hand count after: 161
+Expected hand count: 163
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 331
+Hand count after: 331
+Expected hand count: 333
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 486
+Hand count after: 486
+Expected hand count: 488
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 284
+Hand count after: 284
+Expected hand count: 286
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 345
+Hand count after: 345
+Expected hand count: 347
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 8
+Hand count after: 8
+Expected hand count: 10
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 186
+Hand count after: 186
+Expected hand count: 188
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 212
+Hand count after: 212
+Expected hand count: 214
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 223
+Hand count after: 223
+Expected hand count: 225
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 69
+Hand count after: 69
+Expected hand count: 71
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 121
+Hand count after: 121
+Expected hand count: 123
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 499
+Hand count after: 499
+Expected hand count: 501
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 260
+Hand count after: 260
+Expected hand count: 262
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 292
+Hand count after: 292
+Expected hand count: 294
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 340
+Hand count after: 340
+Expected hand count: 342
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 107
+Hand count after: 107
+Expected hand count: 109
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 162
+Hand count after: 162
+Expected hand count: 164
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 243
+Hand count after: 243
+Expected hand count: 245
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 84
+Hand count after: 84
+Expected hand count: 86
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 455
+Hand count after: 455
+Expected hand count: 457
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 478
+Hand count after: 478
+Expected hand count: 480
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 472
+Hand count after: 472
+Expected hand count: 474
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 399
+Hand count after: 399
+Expected hand count: 401
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 364
+Hand count after: 364
+Expected hand count: 366
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 153
+Hand count after: 153
+Expected hand count: 155
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 80
+Hand count after: 80
+Expected hand count: 82
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 467
+Hand count after: 467
+Expected hand count: 469
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 102
+Hand count after: 102
+Expected hand count: 104
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 129
+Hand count after: 129
+Expected hand count: 131
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 464
+Hand count after: 464
+Expected hand count: 466
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 182
+Hand count after: 182
+Expected hand count: 184
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 241
+Hand count after: 241
+Expected hand count: 243
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 261
+Hand count after: 261
+Expected hand count: 263
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 241
+Hand count after: 241
+Expected hand count: 243
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 451
+Hand count after: 451
+Expected hand count: 453
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 390
+Hand count after: 390
+Expected hand count: 392
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 81
+Hand count after: 81
+Expected hand count: 83
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 42
+Hand count after: 42
+Expected hand count: 44
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 409
+Hand count after: 409
+Expected hand count: 411
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 408
+Hand count after: 408
+Expected hand count: 410
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 68
+Hand count after: 68
+Expected hand count: 70
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 47
+Hand count after: 47
+Expected hand count: 49
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 128
+Hand count after: 128
+Expected hand count: 130
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 87
+Hand count after: 87
+Expected hand count: 89
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 317
+Hand count after: 317
+Expected hand count: 319
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 61
+Hand count after: 61
+Expected hand count: 63
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 387
+Hand count after: 387
+Expected hand count: 389
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 189
+Hand count after: 189
+Expected hand count: 191
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 288
+Hand count after: 288
+Expected hand count: 290
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 218
+Hand count after: 218
+Expected hand count: 220
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 454
+Hand count after: 454
+Expected hand count: 456
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 33
+Hand count after: 33
+Expected hand count: 35
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 220
+Hand count after: 220
+Expected hand count: 222
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 326
+Hand count after: 326
+Expected hand count: 328
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 1
+Hand count after: 1
+Expected hand count: 3
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 62
+Hand count after: 62
+Expected hand count: 64
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 189
+Hand count after: 189
+Expected hand count: 191
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 346
+Hand count after: 346
+Expected hand count: 348
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 393
+Hand count after: 393
+Expected hand count: 395
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 188
+Hand count after: 188
+Expected hand count: 190
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 360
+Hand count after: 360
+Expected hand count: 362
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 338
+Hand count after: 338
+Expected hand count: 340
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 206
+Hand count after: 206
+Expected hand count: 208
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 488
+Hand count after: 488
+Expected hand count: 490
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 434
+Hand count after: 434
+Expected hand count: 436
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 492
+Hand count after: 492
+Expected hand count: 494
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 255
+Hand count after: 255
+Expected hand count: 257
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 474
+Hand count after: 474
+Expected hand count: 476
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 473
+Hand count after: 473
+Expected hand count: 475
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 299
+Hand count after: 299
+Expected hand count: 301
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 386
+Hand count after: 386
+Expected hand count: 388
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 497
+Hand count after: 497
+Expected hand count: 499
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 390
+Hand count after: 390
+Expected hand count: 392
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 110
+Hand count after: 110
+Expected hand count: 112
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 153
+Hand count after: 153
+Expected hand count: 155
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 357
+Hand count after: 357
+Expected hand count: 359
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 493
+Hand count after: 493
+Expected hand count: 495
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 23
+Hand count after: 23
+Expected hand count: 25
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 426
+Hand count after: 426
+Expected hand count: 428
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 468
+Hand count after: 468
+Expected hand count: 470
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 321
+Hand count after: 321
+Expected hand count: 323
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 66
+Hand count after: 66
+Expected hand count: 68
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 467
+Hand count after: 467
+Expected hand count: 469
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 109
+Hand count after: 109
+Expected hand count: 111
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 189
+Hand count after: 189
+Expected hand count: 191
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 32
+Hand count after: 32
+Expected hand count: 34
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 350
+Hand count after: 350
+Expected hand count: 352
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 422
+Hand count after: 422
+Expected hand count: 424
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 181
+Hand count after: 181
+Expected hand count: 183
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 309
+Hand count after: 309
+Expected hand count: 311
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 345
+Hand count after: 345
+Expected hand count: 347
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 10
+Hand count after: 10
+Expected hand count: 12
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 455
+Hand count after: 455
+Expected hand count: 457
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 126
+Hand count after: 126
+Expected hand count: 128
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 71
+Hand count after: 71
+Expected hand count: 73
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 461
+Hand count after: 461
+Expected hand count: 463
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 80
+Hand count after: 80
+Expected hand count: 82
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 41
+Hand count after: 41
+Expected hand count: 43
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 290
+Hand count after: 290
+Expected hand count: 292
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 321
+Hand count after: 321
+Expected hand count: 323
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 352
+Hand count after: 352
+Expected hand count: 354
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 135
+Hand count after: 135
+Expected hand count: 137
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 67
+Hand count after: 67
+Expected hand count: 69
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 62
+Hand count after: 62
+Expected hand count: 64
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 79
+Hand count after: 79
+Expected hand count: 81
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 404
+Hand count after: 404
+Expected hand count: 406
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 288
+Hand count after: 288
+Expected hand count: 290
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 32
+Hand count after: 32
+Expected hand count: 34
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 80
+Hand count after: 80
+Expected hand count: 82
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 179
+Hand count after: 179
+Expected hand count: 181
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 100
+Hand count after: 100
+Expected hand count: 102
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 105
+Hand count after: 105
+Expected hand count: 107
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 322
+Hand count after: 322
+Expected hand count: 324
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 197
+Hand count after: 197
+Expected hand count: 199
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 90
+Hand count after: 90
+Expected hand count: 92
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 47
+Hand count after: 47
+Expected hand count: 49
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 2
+Hand count after: 2
+Expected hand count: 4
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 355
+Hand count after: 355
+Expected hand count: 357
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 238
+Hand count after: 238
+Expected hand count: 240
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 99
+Hand count after: 99
+Expected hand count: 101
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 435
+Hand count after: 435
+Expected hand count: 437
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 154
+Hand count after: 154
+Expected hand count: 156
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 204
+Hand count after: 204
+Expected hand count: 206
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 264
+Hand count after: 264
+Expected hand count: 266
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 293
+Hand count after: 293
+Expected hand count: 295
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 377
+Hand count after: 377
+Expected hand count: 379
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 16
+Hand count after: 16
+Expected hand count: 18
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 422
+Hand count after: 422
+Expected hand count: 424
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 121
+Hand count after: 121
+Expected hand count: 123
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 122
+Hand count after: 122
+Expected hand count: 124
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 435
+Hand count after: 435
+Expected hand count: 437
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 284
+Hand count after: 284
+Expected hand count: 286
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 94
+Hand count after: 94
+Expected hand count: 96
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 411
+Hand count after: 411
+Expected hand count: 413
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 186
+Hand count after: 186
+Expected hand count: 188
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 26
+Hand count after: 26
+Expected hand count: 28
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 411
+Hand count after: 411
+Expected hand count: 413
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 173
+Hand count after: 173
+Expected hand count: 175
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 289
+Hand count after: 289
+Expected hand count: 291
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 142
+Hand count after: 142
+Expected hand count: 144
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 157
+Hand count after: 157
+Expected hand count: 159
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 198
+Hand count after: 198
+Expected hand count: 200
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 262
+Hand count after: 262
+Expected hand count: 264
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 90
+Hand count after: 90
+Expected hand count: 92
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 427
+Hand count after: 427
+Expected hand count: 429
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 352
+Hand count after: 352
+Expected hand count: 354
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 324
+Hand count after: 324
+Expected hand count: 326
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 194
+Hand count after: 194
+Expected hand count: 196
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 471
+Hand count after: 471
+Expected hand count: 473
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 11
+Hand count after: 11
+Expected hand count: 13
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 155
+Hand count after: 155
+Expected hand count: 157
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 260
+Hand count after: 260
+Expected hand count: 262
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 59
+Hand count after: 59
+Expected hand count: 61
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 322
+Hand count after: 322
+Expected hand count: 324
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 237
+Hand count after: 237
+Expected hand count: 239
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 159
+Hand count after: 159
+Expected hand count: 161
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 220
+Hand count after: 220
+Expected hand count: 222
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 206
+Hand count after: 206
+Expected hand count: 208
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 275
+Hand count after: 275
+Expected hand count: 277
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 415
+Hand count after: 415
+Expected hand count: 417
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 474
+Hand count after: 474
+Expected hand count: 476
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 418
+Hand count after: 418
+Expected hand count: 420
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 170
+Hand count after: 170
+Expected hand count: 172
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 391
+Hand count after: 391
+Expected hand count: 393
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 429
+Hand count after: 429
+Expected hand count: 431
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 247
+Hand count after: 247
+Expected hand count: 249
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 288
+Hand count after: 288
+Expected hand count: 290
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 87
+Hand count after: 87
+Expected hand count: 89
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 377
+Hand count after: 377
+Expected hand count: 379
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 155
+Hand count after: 155
+Expected hand count: 157
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 203
+Hand count after: 203
+Expected hand count: 205
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 441
+Hand count after: 441
+Expected hand count: 443
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 185
+Hand count after: 185
+Expected hand count: 187
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 3
+Hand count after: 3
+Expected hand count: 5
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 208
+Hand count after: 208
+Expected hand count: 210
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 214
+Hand count after: 214
+Expected hand count: 216
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 380
+Hand count after: 380
+Expected hand count: 382
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 180
+Hand count after: 180
+Expected hand count: 182
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 245
+Hand count after: 245
+Expected hand count: 247
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 191
+Hand count after: 191
+Expected hand count: 193
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 235
+Hand count after: 235
+Expected hand count: 237
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 444
+Hand count after: 444
+Expected hand count: 446
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 184
+Hand count after: 184
+Expected hand count: 186
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 224
+Hand count after: 224
+Expected hand count: 226
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 390
+Hand count after: 390
+Expected hand count: 392
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 166
+Hand count after: 166
+Expected hand count: 168
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 126
+Hand count after: 126
+Expected hand count: 128
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 41
+Hand count after: 41
+Expected hand count: 43
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 118
+Hand count after: 118
+Expected hand count: 120
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 162
+Hand count after: 162
+Expected hand count: 164
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 429
+Hand count after: 429
+Expected hand count: 431
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 50
+Hand count after: 50
+Expected hand count: 52
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 69
+Hand count after: 69
+Expected hand count: 71
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 318
+Hand count after: 318
+Expected hand count: 320
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 270
+Hand count after: 270
+Expected hand count: 272
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 174
+Hand count after: 174
+Expected hand count: 176
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 480
+Hand count after: 480
+Expected hand count: 482
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 166
+Hand count after: 166
+Expected hand count: 168
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 410
+Hand count after: 410
+Expected hand count: 412
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 355
+Hand count after: 355
+Expected hand count: 357
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 167
+Hand count after: 167
+Expected hand count: 169
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 172
+Hand count after: 172
+Expected hand count: 174
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 112
+Hand count after: 112
+Expected hand count: 114
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 384
+Hand count after: 384
+Expected hand count: 386
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 180
+Hand count after: 180
+Expected hand count: 182
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 482
+Hand count after: 482
+Expected hand count: 484
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 105
+Hand count after: 105
+Expected hand count: 107
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 214
+Hand count after: 214
+Expected hand count: 216
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 180
+Hand count after: 180
+Expected hand count: 182
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 176
+Hand count after: 176
+Expected hand count: 178
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 62
+Hand count after: 62
+Expected hand count: 64
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 198
+Hand count after: 198
+Expected hand count: 200
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 291
+Hand count after: 291
+Expected hand count: 293
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 125
+Hand count after: 125
+Expected hand count: 127
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 463
+Hand count after: 463
+Expected hand count: 465
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 274
+Hand count after: 274
+Expected hand count: 276
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 481
+Hand count after: 481
+Expected hand count: 483
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 482
+Hand count after: 482
+Expected hand count: 484
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 478
+Hand count after: 478
+Expected hand count: 480
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 116
+Hand count after: 116
+Expected hand count: 118
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 76
+Hand count after: 76
+Expected hand count: 78
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 86
+Hand count after: 86
+Expected hand count: 88
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 463
+Hand count after: 463
+Expected hand count: 465
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 194
+Hand count after: 194
+Expected hand count: 196
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 410
+Hand count after: 410
+Expected hand count: 412
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 15
+Hand count after: 15
+Expected hand count: 17
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 290
+Hand count after: 290
+Expected hand count: 292
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 77
+Hand count after: 77
+Expected hand count: 79
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 384
+Hand count after: 384
+Expected hand count: 386
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 361
+Hand count after: 361
+Expected hand count: 363
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 321
+Hand count after: 321
+Expected hand count: 323
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 330
+Hand count after: 330
+Expected hand count: 332
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 440
+Hand count after: 440
+Expected hand count: 442
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 463
+Hand count after: 463
+Expected hand count: 465
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 499
+Hand count after: 499
+Expected hand count: 501
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 323
+Hand count after: 323
+Expected hand count: 325
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 464
+Hand count after: 464
+Expected hand count: 466
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 273
+Hand count after: 273
+Expected hand count: 275
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 21
+Hand count after: 21
+Expected hand count: 23
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 482
+Hand count after: 482
+Expected hand count: 484
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 401
+Hand count after: 401
+Expected hand count: 403
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 358
+Hand count after: 358
+Expected hand count: 360
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 356
+Hand count after: 356
+Expected hand count: 358
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 496
+Hand count after: 496
+Expected hand count: 498
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 150
+Hand count after: 150
+Expected hand count: 152
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 447
+Hand count after: 447
+Expected hand count: 449
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 287
+Hand count after: 287
+Expected hand count: 289
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 479
+Hand count after: 479
+Expected hand count: 481
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 140
+Hand count after: 140
+Expected hand count: 142
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 43
+Hand count after: 43
+Expected hand count: 45
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 218
+Hand count after: 218
+Expected hand count: 220
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 56
+Hand count after: 56
+Expected hand count: 58
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 9
+Hand count after: 9
+Expected hand count: 11
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 457
+Hand count after: 457
+Expected hand count: 459
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 419
+Hand count after: 419
+Expected hand count: 421
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 406
+Hand count after: 406
+Expected hand count: 408
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 128
+Hand count after: 128
+Expected hand count: 130
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 163
+Hand count after: 163
+Expected hand count: 165
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 358
+Hand count after: 358
+Expected hand count: 360
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 81
+Hand count after: 81
+Expected hand count: 83
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 277
+Hand count after: 277
+Expected hand count: 279
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 389
+Hand count after: 389
+Expected hand count: 391
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 330
+Hand count after: 330
+Expected hand count: 332
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 469
+Hand count after: 469
+Expected hand count: 471
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 438
+Hand count after: 438
+Expected hand count: 440
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 54
+Hand count after: 54
+Expected hand count: 56
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 244
+Hand count after: 244
+Expected hand count: 246
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 398
+Hand count after: 398
+Expected hand count: 400
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 188
+Hand count after: 188
+Expected hand count: 190
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 116
+Hand count after: 116
+Expected hand count: 118
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 12
+Hand count after: 12
+Expected hand count: 14
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 227
+Hand count after: 227
+Expected hand count: 229
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 124
+Hand count after: 124
+Expected hand count: 126
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 287
+Hand count after: 287
+Expected hand count: 289
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 474
+Hand count after: 474
+Expected hand count: 476
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 483
+Hand count after: 483
+Expected hand count: 485
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 286
+Hand count after: 286
+Expected hand count: 288
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 311
+Hand count after: 311
+Expected hand count: 313
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 56
+Hand count after: 56
+Expected hand count: 58
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 491
+Hand count after: 491
+Expected hand count: 493
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 334
+Hand count after: 334
+Expected hand count: 336
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 291
+Hand count after: 291
+Expected hand count: 293
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 147
+Hand count after: 147
+Expected hand count: 149
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 442
+Hand count after: 442
+Expected hand count: 444
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 471
+Hand count after: 471
+Expected hand count: 473
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 302
+Hand count after: 302
+Expected hand count: 304
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 224
+Hand count after: 224
+Expected hand count: 226
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 396
+Hand count after: 396
+Expected hand count: 398
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 346
+Hand count after: 346
+Expected hand count: 348
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 438
+Hand count after: 438
+Expected hand count: 440
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 490
+Hand count after: 490
+Expected hand count: 492
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 466
+Hand count after: 466
+Expected hand count: 468
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 144
+Hand count after: 144
+Expected hand count: 146
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 4
+Hand count after: 4
+Expected hand count: 6
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 32
+Hand count after: 32
+Expected hand count: 34
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 19
+Hand count after: 19
+Expected hand count: 21
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 180
+Hand count after: 180
+Expected hand count: 182
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 95
+Hand count after: 95
+Expected hand count: 97
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 362
+Hand count after: 362
+Expected hand count: 364
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 205
+Hand count after: 205
+Expected hand count: 207
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 349
+Hand count after: 349
+Expected hand count: 351
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 153
+Hand count after: 153
+Expected hand count: 155
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 96
+Hand count after: 96
+Expected hand count: 98
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 356
+Hand count after: 356
+Expected hand count: 358
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 462
+Hand count after: 462
+Expected hand count: 464
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 195
+Hand count after: 195
+Expected hand count: 197
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 394
+Hand count after: 394
+Expected hand count: 396
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 365
+Hand count after: 365
+Expected hand count: 367
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 213
+Hand count after: 213
+Expected hand count: 215
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 246
+Hand count after: 246
+Expected hand count: 248
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 481
+Hand count after: 481
+Expected hand count: 483
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 289
+Hand count after: 289
+Expected hand count: 291
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 177
+Hand count after: 177
+Expected hand count: 179
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 65
+Hand count after: 65
+Expected hand count: 67
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 146
+Hand count after: 146
+Expected hand count: 148
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 163
+Hand count after: 163
+Expected hand count: 165
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 137
+Hand count after: 137
+Expected hand count: 139
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 227
+Hand count after: 227
+Expected hand count: 229
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 52
+Hand count after: 52
+Expected hand count: 54
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 498
+Hand count after: 498
+Expected hand count: 500
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 365
+Hand count after: 365
+Expected hand count: 367
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 47
+Hand count after: 47
+Expected hand count: 49
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 481
+Hand count after: 481
+Expected hand count: 483
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 453
+Hand count after: 453
+Expected hand count: 455
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 254
+Hand count after: 254
+Expected hand count: 256
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 328
+Hand count after: 328
+Expected hand count: 330
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 79
+Hand count after: 79
+Expected hand count: 81
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 370
+Hand count after: 370
+Expected hand count: 372
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 105
+Hand count after: 105
+Expected hand count: 107
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 279
+Hand count after: 279
+Expected hand count: 281
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 176
+Hand count after: 176
+Expected hand count: 178
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 181
+Hand count after: 181
+Expected hand count: 183
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 280
+Hand count after: 280
+Expected hand count: 282
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 81
+Hand count after: 81
+Expected hand count: 83
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 483
+Hand count after: 483
+Expected hand count: 485
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 104
+Hand count after: 104
+Expected hand count: 106
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 124
+Hand count after: 124
+Expected hand count: 126
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 489
+Hand count after: 489
+Expected hand count: 491
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 160
+Hand count after: 160
+Expected hand count: 162
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 141
+Hand count after: 141
+Expected hand count: 143
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 209
+Hand count after: 209
+Expected hand count: 211
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 325
+Hand count after: 325
+Expected hand count: 327
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 127
+Hand count after: 127
+Expected hand count: 129
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 390
+Hand count after: 390
+Expected hand count: 392
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 372
+Hand count after: 372
+Expected hand count: 374
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 424
+Hand count after: 424
+Expected hand count: 426
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 407
+Hand count after: 407
+Expected hand count: 409
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 171
+Hand count after: 171
+Expected hand count: 173
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 105
+Hand count after: 105
+Expected hand count: 107
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 403
+Hand count after: 403
+Expected hand count: 405
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 452
+Hand count after: 452
+Expected hand count: 454
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 367
+Hand count after: 367
+Expected hand count: 369
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 197
+Hand count after: 197
+Expected hand count: 199
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 217
+Hand count after: 217
+Expected hand count: 219
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 230
+Hand count after: 230
+Expected hand count: 232
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 474
+Hand count after: 474
+Expected hand count: 476
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 57
+Hand count after: 57
+Expected hand count: 59
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 466
+Hand count after: 466
+Expected hand count: 468
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 1
+Hand count after: 1
+Expected hand count: 3
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 473
+Hand count after: 473
+Expected hand count: 475
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 255
+Hand count after: 255
+Expected hand count: 257
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 190
+Hand count after: 190
+Expected hand count: 192
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 196
+Hand count after: 196
+Expected hand count: 198
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 500
+Hand count after: 500
+Expected hand count: 502
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 152
+Hand count after: 152
+Expected hand count: 154
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 183
+Hand count after: 183
+Expected hand count: 185
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 102
+Hand count after: 102
+Expected hand count: 104
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 17
+Hand count after: 17
+Expected hand count: 19
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 184
+Hand count after: 184
+Expected hand count: 186
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 236
+Hand count after: 236
+Expected hand count: 238
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 488
+Hand count after: 488
+Expected hand count: 490
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 418
+Hand count after: 418
+Expected hand count: 420
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 234
+Hand count after: 234
+Expected hand count: 236
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 495
+Hand count after: 495
+Expected hand count: 497
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 21
+Hand count after: 21
+Expected hand count: 23
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 338
+Hand count after: 338
+Expected hand count: 340
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 275
+Hand count after: 275
+Expected hand count: 277
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 275
+Hand count after: 275
+Expected hand count: 277
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 277
+Hand count after: 277
+Expected hand count: 279
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 107
+Hand count after: 107
+Expected hand count: 109
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 150
+Hand count after: 150
+Expected hand count: 152
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 52
+Hand count after: 52
+Expected hand count: 54
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 437
+Hand count after: 437
+Expected hand count: 439
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 83
+Hand count after: 83
+Expected hand count: 85
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 165
+Hand count after: 165
+Expected hand count: 167
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 438
+Hand count after: 438
+Expected hand count: 440
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 219
+Hand count after: 219
+Expected hand count: 221
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 129
+Hand count after: 129
+Expected hand count: 131
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 367
+Hand count after: 367
+Expected hand count: 369
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 290
+Hand count after: 290
+Expected hand count: 292
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 166
+Hand count after: 166
+Expected hand count: 168
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 402
+Hand count after: 402
+Expected hand count: 404
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 441
+Hand count after: 441
+Expected hand count: 443
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 490
+Hand count after: 490
+Expected hand count: 492
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 327
+Hand count after: 327
+Expected hand count: 329
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 97
+Hand count after: 97
+Expected hand count: 99
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 469
+Hand count after: 469
+Expected hand count: 471
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 382
+Hand count after: 382
+Expected hand count: 384
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 161
+Hand count after: 161
+Expected hand count: 163
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 327
+Hand count after: 327
+Expected hand count: 329
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 279
+Hand count after: 279
+Expected hand count: 281
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 54
+Hand count after: 54
+Expected hand count: 56
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 292
+Hand count after: 292
+Expected hand count: 294
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 46
+Hand count after: 46
+Expected hand count: 48
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 127
+Hand count after: 127
+Expected hand count: 129
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 442
+Hand count after: 442
+Expected hand count: 444
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 420
+Hand count after: 420
+Expected hand count: 422
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 412
+Hand count after: 412
+Expected hand count: 414
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 435
+Hand count after: 435
+Expected hand count: 437
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 498
+Hand count after: 498
+Expected hand count: 500
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 36
+Hand count after: 36
+Expected hand count: 38
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 133
+Hand count after: 133
+Expected hand count: 135
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 91
+Hand count after: 91
+Expected hand count: 93
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 38
+Hand count after: 38
+Expected hand count: 40
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 25
+Hand count after: 25
+Expected hand count: 27
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 329
+Hand count after: 329
+Expected hand count: 331
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 309
+Hand count after: 309
+Expected hand count: 311
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 55
+Hand count after: 55
+Expected hand count: 57
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 277
+Hand count after: 277
+Expected hand count: 279
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 498
+Hand count after: 498
+Expected hand count: 500
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 77
+Hand count after: 77
+Expected hand count: 79
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 355
+Hand count after: 355
+Expected hand count: 357
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 47
+Hand count after: 47
+Expected hand count: 49
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 8
+Hand count after: 8
+Expected hand count: 10
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 295
+Hand count after: 295
+Expected hand count: 297
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 376
+Hand count after: 376
+Expected hand count: 378
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 41
+Hand count after: 41
+Expected hand count: 43
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 278
+Hand count after: 278
+Expected hand count: 280
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 228
+Hand count after: 228
+Expected hand count: 230
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 406
+Hand count after: 406
+Expected hand count: 408
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 330
+Hand count after: 330
+Expected hand count: 332
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 61
+Hand count after: 61
+Expected hand count: 63
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 194
+Hand count after: 194
+Expected hand count: 196
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 272
+Hand count after: 272
+Expected hand count: 274
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 184
+Hand count after: 184
+Expected hand count: 186
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 205
+Hand count after: 205
+Expected hand count: 207
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 390
+Hand count after: 390
+Expected hand count: 392
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 464
+Hand count after: 464
+Expected hand count: 466
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 438
+Hand count after: 438
+Expected hand count: 440
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 76
+Hand count after: 76
+Expected hand count: 78
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 118
+Hand count after: 118
+Expected hand count: 120
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 4
+Hand count after: 4
+Expected hand count: 6
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 249
+Hand count after: 249
+Expected hand count: 251
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 353
+Hand count after: 353
+Expected hand count: 355
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 472
+Hand count after: 472
+Expected hand count: 474
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 170
+Hand count after: 170
+Expected hand count: 172
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 130
+Hand count after: 130
+Expected hand count: 132
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 112
+Hand count after: 112
+Expected hand count: 114
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 227
+Hand count after: 227
+Expected hand count: 229
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 343
+Hand count after: 343
+Expected hand count: 345
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 122
+Hand count after: 122
+Expected hand count: 124
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 243
+Hand count after: 243
+Expected hand count: 245
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 160
+Hand count after: 160
+Expected hand count: 162
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 370
+Hand count after: 370
+Expected hand count: 372
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 10
+Hand count after: 10
+Expected hand count: 12
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 467
+Hand count after: 467
+Expected hand count: 469
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 17
+Hand count after: 17
+Expected hand count: 19
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 38
+Hand count after: 38
+Expected hand count: 40
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 6
+Hand count after: 6
+Expected hand count: 8
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 496
+Hand count after: 496
+Expected hand count: 498
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 259
+Hand count after: 259
+Expected hand count: 261
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 251
+Hand count after: 251
+Expected hand count: 253
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 389
+Hand count after: 389
+Expected hand count: 391
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 232
+Hand count after: 232
+Expected hand count: 234
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 72
+Hand count after: 72
+Expected hand count: 74
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 61
+Hand count after: 61
+Expected hand count: 63
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 203
+Hand count after: 203
+Expected hand count: 205
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 361
+Hand count after: 361
+Expected hand count: 363
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 442
+Hand count after: 442
+Expected hand count: 444
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 352
+Hand count after: 352
+Expected hand count: 354
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 25
+Hand count after: 25
+Expected hand count: 27
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 94
+Hand count after: 94
+Expected hand count: 96
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 180
+Hand count after: 180
+Expected hand count: 182
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 425
+Hand count after: 425
+Expected hand count: 427
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 359
+Hand count after: 359
+Expected hand count: 361
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 370
+Hand count after: 370
+Expected hand count: 372
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 161
+Hand count after: 161
+Expected hand count: 163
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 253
+Hand count after: 253
+Expected hand count: 255
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 58
+Hand count after: 58
+Expected hand count: 60
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 450
+Hand count after: 450
+Expected hand count: 452
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 204
+Hand count after: 204
+Expected hand count: 206
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 18
+Hand count after: 18
+Expected hand count: 20
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 168
+Hand count after: 168
+Expected hand count: 170
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 356
+Hand count after: 356
+Expected hand count: 358
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 318
+Hand count after: 318
+Expected hand count: 320
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 241
+Hand count after: 241
+Expected hand count: 243
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 237
+Hand count after: 237
+Expected hand count: 239
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 407
+Hand count after: 407
+Expected hand count: 409
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 193
+Hand count after: 193
+Expected hand count: 195
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 33
+Hand count after: 33
+Expected hand count: 35
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 358
+Hand count after: 358
+Expected hand count: 360
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 296
+Hand count after: 296
+Expected hand count: 298
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 242
+Hand count after: 242
+Expected hand count: 244
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 185
+Hand count after: 185
+Expected hand count: 187
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 161
+Hand count after: 161
+Expected hand count: 163
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 197
+Hand count after: 197
+Expected hand count: 199
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 179
+Hand count after: 179
+Expected hand count: 181
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 174
+Hand count after: 174
+Expected hand count: 176
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 162
+Hand count after: 162
+Expected hand count: 164
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 111
+Hand count after: 111
+Expected hand count: 113
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 311
+Hand count after: 311
+Expected hand count: 313
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 487
+Hand count after: 487
+Expected hand count: 489
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 425
+Hand count after: 425
+Expected hand count: 427
+##################################
+Test failed: not enough cards added to player 2 hand.
+Hand count before: 431
+Hand count after: 431
+Expected hand count: 433
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 198
+Hand count after: 198
+Expected hand count: 200
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 57
+Hand count after: 57
+Expected hand count: 59
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 59
+Hand count after: 59
+Expected hand count: 61
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 280
+Hand count after: 280
+Expected hand count: 282
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 48
+Hand count after: 48
+Expected hand count: 50
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 268
+Hand count after: 268
+Expected hand count: 270
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 241
+Hand count after: 241
+Expected hand count: 243
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 406
+Hand count after: 406
+Expected hand count: 408
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 30
+Hand count after: 30
+Expected hand count: 32
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 152
+Hand count after: 152
+Expected hand count: 154
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 479
+Hand count after: 479
+Expected hand count: 481
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 280
+Hand count after: 280
+Expected hand count: 282
+##################################
+Test failed: not enough cards added to player 1 hand.
+Hand count before: 132
+Hand count after: 132
+Expected hand count: 134
+##################################
+Test failed: not enough cards added to player 0 hand.
+Hand count before: 67
+Hand count after: 67
+Expected hand count: 69
+##################################
+Test failed: not enough cards added to player 3 hand.
+Hand count before: 354
+Hand count after: 354
+Expected hand count: 356
+##################################
+Testing completed: hand count was not correct 1000 times out of 1000
+random card_smithy stats
+Lines executed:100.00% of 6
+No branches
+No calls
+
